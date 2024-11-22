@@ -1,1 +1,1 @@
-socks5://Username:password@ip:port
+http://user165521:v9ybie@188.164.153.7:2543
